@@ -1,0 +1,62 @@
+#nav-footer {
+  font-size: 11px; }
+
+#footor {
+  background-color: #282828;
+  color: white; 
+}
+  #footor .copyright {
+    font-size: 10px; 
+  }
+  #footor #iconOnFooter {
+    font-size: 40px;
+    margin-left: 4px; 
+  }
+
+    #footor2 {
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      background-color: #282828;;
+      color: white;
+    }
+
+    #footor2 .copyright {
+      font-size: 10px; 
+    }
+
+    #footor2 #iconOnFooter2 {
+      font-size: 40px;
+      margin-left: 6px; }
+
+      
+      input[type=text]:focus {
+        border: 2px solid black;
+    }
+
+    #atags {
+      color: black;
+      font-size: 18px;
+  }
+
+  #atags:hover {
+      color: black;
+      font-size: 18px;
+      text-decoration: none;
+  }
+
+  .selfthis:hover {
+    text-decoration: none;
+}
+
+.custAccount {
+  margin-right: 10px;
+  background-color: black;
+  color: white;
+}
+
+.custAccount:hover {
+  color: white;
+}
+    
